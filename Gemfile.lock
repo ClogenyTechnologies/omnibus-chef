@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/ClogenyTechnologies/omnibus-software.git
-  revision: 9be1e06197c235fbdd3485cfbfeb44edac7969d1
-  branch: dj-aix-xlc-build-opt
+  revision: a064afa5286da5fb842f8e064688281ba60be337
+  branch: kd--aix-xlc-build-opt
   specs:
     omnibus-software (0.0.1)
 
